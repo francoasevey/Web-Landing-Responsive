@@ -51,7 +51,7 @@ body{
     transform: translate(-100%);
     transition: transform .3s;
 }
-.nav_item--show{
+.nav_list--show{
     transform: translate(0);
 }
 .nav_link{
